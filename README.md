@@ -1,9 +1,12 @@
 # TR102-2435194
 **Training Daily Diary**
+<br>
 **Training Topic: Next-Gen Data Exploration with ML and GenerativeAI**
-**DAY: 1**
-**Date: 30-06-26**
-Topics Covered
+<br>
+**DAY: 1        Date: 30-06-26**
+<br>
+Topics Covered :
+<br>
 -<u>Data:</u> Data is a collection of raw facts, figures, or observations that has not yet been processed.
 -<u>Information:</u> Information is processed and organized data that is meaningful and useful for making decisions.
 Eg: If we want to take all the datails of accidents on a particular Highway then our data is newspapers.
