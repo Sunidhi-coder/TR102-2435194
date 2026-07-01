@@ -3,6 +3,7 @@
 <br>
 **Training Topic: Next-Gen Data Exploration with ML and GenerativeAI**
 <br>
+---
 **DAY: 1        Date: 30-06-26**
 <br>
 |Topics Covered | Description|
@@ -17,6 +18,7 @@
 |`Generative AI (Gen AI)`|Generative AI is a type of artificial intelligence that creates new content such as text, images, music, videos, or code by learning patterns from existing data.  Eg:ChatGPT (text generation),GitHub Copilot.|
 
 
+---
 **DAY: 2        Date: 01-07-26**
 <br>
 |Topics Covered|Description|
