@@ -18,3 +18,25 @@
 
 
 **DAY: 2        Date: 01-07-26**
+<br>
+|Topics Covered|Description|
+|----|----|
+|`Data Types`|Before analyzing data, Python needs to know what kind of information it is handling. eg ***int,float,string,bool***|
+|`Python Data Structures`|***List-*** Ordered, mutable collections of items. Created using square brackets []. Allows duplicate elements and mixed data types.|***Tuples*** Ordered, immutable sequences of items. Created using parentheses (). Cannot be changed after creation, making them memory-efficient.|***Dictionaries (dict)*** Unordered, mutable key-value maps. Created using curly braces {key: value}. Keys must be unique and immutable.|***Sets*** Unordered collections of unique elements. Created using curly braces {} or set(). Automatically eliminates duplicates; ideal for membership testing.|
+|`Pandas Data Strcuture`|Pandas is a python library | ***Pandas Series*** Series = Single column of data.|***Pandas Dataframes*** A DataFrame is similar to an Excel sheet.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
