@@ -27,6 +27,11 @@
 |`Python Data Structures`|***List-*** Ordered, mutable collections of items. Created using square brackets []. Allows duplicate elements and mixed data types.<br>***Tuples*** Ordered, immutable sequences of items. Created using parentheses (). Cannot be changed after creation, making them memory-efficient.<br>***Dictionaries (dict)*** Unordered, mutable key-value maps. Created using curly braces {key: value}. Keys must be unique and immutable.<br>***Sets*** Unordered collections of unique elements. Created using curly braces {} or set(). Automatically eliminates duplicates; ideal for membership testing.|
 |`Pandas Data Strcuture`|Pandas is a python library <br> ***Pandas Series*** Series = Single column of data.<br>***Pandas Dataframes*** A DataFrame is similar to an Excel sheet.|
 
+---
+**DAY: 3       Date: 02-07-26**
+<br>
+|Topics Covered|Description|
+|---|---|
 
 
 
