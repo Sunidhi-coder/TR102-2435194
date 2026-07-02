@@ -32,6 +32,10 @@
 <br>
 |Topics Covered|Description|
 |---|---|
+|`Data Pipeline`|Raw Data -> Import Data -> Understand Data -> Data Cleaning -> Data Transformation -> Data Analysis ->Visualization -> Insights|
+|`Data Cleaning`|Data cleaning is the process of identifying and correcting errors, inconsistencies, and inaccuracies in raw data before analysis.|
+|`Common Data Quality Issues`|**1. Missing values:** Missing values occur when no data is recorded for a particular observation. *Methods to Handle the Missing Value:* Remove Row ,Fill the Mean ,Fill the Median ,Fill the Mode <br> **2. Duplicate records** <br> **3. Incorrect data types** <br> **4. Inconsistent text formatting** <br> **5. Outliers** <br> **6. Invalid values** <br> **7. Extra spaces**|
+|`Outlier`|An outlier is an observation that is significantly different from the rest of the data.|
 
 
 
