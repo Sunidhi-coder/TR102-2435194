@@ -37,6 +37,16 @@
 |`Common Data Quality Issues`|**1. Missing values:** Missing values occur when no data is recorded for a particular observation. *Methods to Handle the Missing Value:* Remove Row ,Fill the Mean ,Fill the Median ,Fill the Mode <br> **2. Duplicate records** <br> **3. Incorrect data types** <br> **4. Inconsistent text formatting** <br> **5. Outliers** <br> **6. Invalid values** <br> **7. Extra spaces**|
 |`Outlier`|An outlier is an observation that is significantly different from the rest of the data.|
 
+---
+**DAY: 4       Date: 03-07-26**
+<br>
+|Topics Covered|Description|
+|---|---|
+|`EDA - Exploratory Data Analysis`|EDA is an essential step in data analysis that focuses on understanding patterns, relationships and distributions within a dataset using statistical methods and visualizations.|
+|`Univariate Analysis`|Univariate = One Variable|
+|`Bivatiate Analysis`|Relationship between TWO variables|
+|`Multivariate Analysis`|Relationship among multiple variables|
+|`Feature Engineering`|Generating entirely new variables from existing data. For example, extracting "Day of the Week" and "Is Holiday" columns from raw date|
 
 
 
