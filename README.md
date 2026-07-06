@@ -55,7 +55,20 @@
 |---|---|
 |`Data Visualization`|Data visualization is the graphical representation of data to communicate patterns, trends, relationships, and insights effectively.|
 |`Visualization helps us:`|Understand large datasets quickly. <br> Identify trends. <br> Detect outliers. <br> Compare groups. <br> Discover hidden relationships. <br> Support business decisions.|
-|`
+|`Matplotlib `|Basic plotting library,Highly customizable,Good for simple charts.|
+|`Seaborn`|Built on Matplotlib,More attractive default styles,Easier statistical plots,Better integration with Pandas.|
+|`Histogram Chart`|Used for Distribution|
+|`Boxplot`|Outliers & Spread|
+|`Countplot`|Frequency Count|
+|`Bar Chart`|used for Comparison|
+|`Pie chart`|used for Percentage|
+|`Line chart`|used for Trend|
+|`Scatter Plot`|used for Relationship|
+|`Heatmap`|used for Correlation|
+|`Pair Plot`|used for Multiple Relationships|
+|`Violin Plot`|used for Distribution Comparison|
+|`KDE Plot`|used for Probability Distribution|
+|`Area chart`|used for Cumulative Trend|
 
 
 
