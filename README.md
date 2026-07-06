@@ -48,6 +48,14 @@
 |`Multivariate Analysis`|Relationship among multiple variables|
 |`Feature Engineering`|Generating entirely new variables from existing data. For example, extracting "Day of the Week" and "Is Holiday" columns from raw date|
 
+---
+**DAY: 5      Date: 04-07-26**
+<br>
+|Topic Covered|Description|
+|---|---|
+|`Data Visualization`|Data visualization is the graphical representation of data to communicate patterns, trends, relationships, and insights effectively.|
+|`Visualization helps us:`|Understand large datasets quickly. <br> Identify trends. <br> Detect outliers. <br> Compare groups. <br> Discover hidden relationships. <br> Support business decisions.|
+|`
 
 
 
