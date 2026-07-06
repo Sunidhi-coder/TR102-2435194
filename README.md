@@ -49,7 +49,7 @@
 |`Feature Engineering`|Generating entirely new variables from existing data. For example, extracting "Day of the Week" and "Is Holiday" columns from raw date|
 
 ---
-**DAY: 5      Date: 04-07-26**
+**DAY: 5      Date: 06-07-26**
 <br>
 |Topic Covered|Description|
 |---|---|
