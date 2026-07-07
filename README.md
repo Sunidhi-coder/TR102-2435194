@@ -70,6 +70,8 @@
 |`KDE Plot`|used for Probability Distribution|
 |`Area chart`|used for Cumulative Trend|
 
+---
+**DAY: 6     Date:07-07-26
 <br>
 |Topics Covered|Description|
 |---|---|
