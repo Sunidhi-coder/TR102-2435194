@@ -77,7 +77,11 @@
 |---|---|
 |`Feature Engineering`|Feature engineering is all about transforming raw data into useful features that help make better predictions with machine learning models. It’s a crucial step that can improve your models and make your data easier to understand.|
 |`There are seven common techniques of Feature Engineering`|Create,Tranform,Encode,Scale,Bin,Extract,Combine|
-|`Technique 1 - Feature Creation`|
+|`Technique 1 - Feature Creation`|Creating completely new columns from existing columns.|
+|`Technique 2 Feature Transformation`|Sometimes data exists but in the wrong form.|
+|`Technique 3: Feature Scaling`|
+|`Technique 4 Encoding`|Computers understand Numbers Not words.|
+
 
 
 
