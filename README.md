@@ -82,6 +82,14 @@
 |`Technique 3: Feature Scaling`|
 |`Technique 4 Encoding`|Computers understand Numbers Not words.|
 
+---
+**DAY: 7  Date: 08-07-26**
+<br>
+|Topics Covered|Description|
+|---|---|
+|`Principal Component Analysis (PCA)`|A dimensionality reduction technique that converts many correlated features into a smaller number of new features (called Principal Components) while retaining as much information (variance) as possible.|
+|`Why Do We Need PCA?`|Suppose our dataset has 100 Features Some are useful. Some are duplicates. Some are highly correlated.|
+
 
 
 
