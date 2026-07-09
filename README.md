@@ -90,6 +90,18 @@
 |`Principal Component Analysis (PCA)`|A dimensionality reduction technique that converts many correlated features into a smaller number of new features (called Principal Components) while retaining as much information (variance) as possible.|
 |`Why Do We Need PCA?`|Suppose our dataset has 100 Features Some are useful. Some are duplicates. Some are highly correlated.|
 
+---
+**DAY: 8  Date: 09-07-26**
+<br>
+|Topics Covered|Description|
+|---|---|
+|`Imbalanced data`|when one class has far more samples than others, causing models to favour the majority class and perform poorly on the minority class. This often results in misleading accuracy, especially in critical applications like fraud detection or medical diagnosis.|
+|`Random oversampling`|Random oversampling is a technique used in machine learning to balance imbalanced datasets. It works by randomly duplicating existing examples from the minority class—often with replacement—until the class distribution is equal to the majority class.|
+|`Random undersampling `|Random undersampling is a technique used in machine learning to balance imbalanced datasets by randomly deleting examples from the majority class. While it speeds up training time, it risks discarding potentially valuable information needed for the model to learn accurately.|
+|`SMOTE `|SMOTE (Synthetic Minority Over-sampling Technique) is an algorithm used to fix class imbalance in machine learning datasets. Instead of duplicating existing minority data, which leads to overfitting, SMOTE creates new, realistic synthetic data points by calculating distances between existing minority examples and interpolating new points along the lines connecting them.|
+|`ADASYN`|ADASYN (Adaptive Synthetic) is a machine learning technique used to handle imbalanced datasets by generating synthetic samples for the minority class. It differs from basic oversampling by focusing on the "harder-to-learn" examples, shifting the model's decision boundary to better classify difficult data points.|
+
+
 
 
 
