@@ -101,6 +101,16 @@
 |`SMOTE `|SMOTE (Synthetic Minority Over-sampling Technique) is an algorithm used to fix class imbalance in machine learning datasets. Instead of duplicating existing minority data, which leads to overfitting, SMOTE creates new, realistic synthetic data points by calculating distances between existing minority examples and interpolating new points along the lines connecting them.|
 |`ADASYN`|ADASYN (Adaptive Synthetic) is a machine learning technique used to handle imbalanced datasets by generating synthetic samples for the minority class. It differs from basic oversampling by focusing on the "harder-to-learn" examples, shifting the model's decision boundary to better classify difficult data points.|
 
+---
+**DAY: 9  Date: 10-07-26**
+<br>
+|Topics Covered|Description|
+|---|---|
+|`Pattern Detection `|process of discovering meaningful and recurring relationships or trends in data. |
+|`Z-score method for anomalies`|A z-score, also called a standard score, indicates the position of a raw score relative to the mean of a dataset, expressed in terms of standard deviations. A z-score of 0 means the value is exactly at the mean, a positive z-score indicates the value is above the mean, and a negative z-score indicates it is below the mean. Z-scores allow comparison across different datasets or scales by standardizing values on a common scale, making raw numbers easier to interpret and compare.|
+|`Detecting a Pattern with a Pivot Table`|Pivot Tables allow you to summarize and analyze large datasets efficiently, making it easier to detect patterns, trends, and anomalies.|
+|`Finding Patterns with Clustering`|Clustering is an unsupervised machine learning technique used to group similar data points together without using labelled data. |
+
 
 
 
