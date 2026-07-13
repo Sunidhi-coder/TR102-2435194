@@ -111,8 +111,13 @@
 |`Detecting a Pattern with a Pivot Table`|Pivot Tables allow you to summarize and analyze large datasets efficiently, making it easier to detect patterns, trends, and anomalies.|
 |`Finding Patterns with Clustering`|Clustering is an unsupervised machine learning technique used to group similar data points together without using labelled data. |
 
-
-
+---
+**DAY: 10 Date:13-07-26**
+<br>
+|Topics Covered|Desc|
+|---|---|
+|`pip install ydata-profiling`|
+|`pip install sweetviz`|
 
 
 
