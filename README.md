@@ -119,6 +119,14 @@
 |`pip install ydata-profiling`|
 |`pip install sweetviz`|
 
+---
+**DAY: 11 Date:14-07-26**
+<br>
+|Topics Covered|Description|
+|---|---|
+|`Supervised learning`|machine learning in which a model is trained using a dataset that contains both the input features and the corresponding correct outputs (labels).|
+|`Classification:`| Predicting categories (e.g., placement status).|
+|`Regression`|Predicting continuous values (e.g., expected salary package).|
 
 
 
