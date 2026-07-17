@@ -129,6 +129,26 @@
 |`Regression`|Predicting continuous values (e.g., expected salary package).|
 
 
+---
+**DAY: 12    Date:15-07-26**
+<br>
+|Topics Covered|Desciption|
+|---|---|
+|`Naïve Bayes`|probabilistic supervised learning algorithm based on Bayes' Theorem.|
+|`KNN`|predicts the class by looking at the K nearest neighbors.|
+|`SVM`|finds the best boundary that separates different classes.|
+
+---
+**DAY:  13  Date:16-07-26**
+<br>
+Project Progress check
+
+
+---
+**DAY: 14  Date:17-07-26**
+<br>
+
+
 
 
 
