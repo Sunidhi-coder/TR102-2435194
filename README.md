@@ -147,6 +147,12 @@ Project Progress check
 ---
 **DAY: 14  Date:17-07-26**
 <br>
+|Topics Covered|Description|
+|---|---|
+|`Naïve Bayes`|It predicts the class that has the highest probability given the input features.|
+|`KNN`|KNN predicts the class by looking at the K nearest neighbors.|
+|`SVM`|SVM finds the best boundary that separates different classes.|
+
 
 
 
