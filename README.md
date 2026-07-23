@@ -181,7 +181,7 @@ Project Progress check
 |`RFECV (Recursive Feature Elimination with Cross Validation)`|This is the smart version of RFE. Instead of asking How many features should I keep? RFECV automatically decides.|
 
 ---
-**DAY: 17  Date:22-07-26**
+**DAY: 18  Date:23-07-26**
 <br>
 |Topics Covered|Description|
 |---|---|
