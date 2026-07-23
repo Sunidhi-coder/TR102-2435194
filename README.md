@@ -180,6 +180,13 @@ Project Progress check
 |`Wrapper Method`|feature selection technique in which a machine learning algorithm is used to evaluate different subsets of features and select the combination that gives the best model performance.|
 |`RFECV (Recursive Feature Elimination with Cross Validation)`|This is the smart version of RFE. Instead of asking How many features should I keep? RFECV automatically decides.|
 
+---
+**DAY: 17  Date:22-07-26**
+<br>
+|Topics Covered|Description|
+|---|---|
+|`Hyperparameter tuning`| process of finding the best combination of model settings before training the model so that it achieves the highest performance.|
+
 
 
 
