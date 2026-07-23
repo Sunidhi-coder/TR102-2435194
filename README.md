@@ -143,16 +143,42 @@
 <br>
 Project Progress check
 
-
 ---
 **DAY: 14  Date:17-07-26**
 <br>
 |Topics Covered|Description|
 |---|---|
-|`Naïve Bayes`|It predicts the class that has the highest probability given the input features.|
-|`KNN`|KNN predicts the class by looking at the K nearest neighbors.|
-|`SVM`|SVM finds the best boundary that separates different classes.|
+|`decision tree `|A decision tree is a supervised machine learning algorithm that breaks down a dataset into smaller subsets while building an upside-down, flowchart-like tree structure.|
+|`Entropy`|Measures the randomness or disorder within a node.|
+|`Information Gain`|Calculates the drop in entropy after a split. The algorithm naturally picks the feature with the highest information gain.|
+|`Random Forest`|powerful supervised machine learning algorithm that builds an ensemble (collection) of multiple decision trees to make more accurate and stable predictions. |
 
+---
+**DAY: 15  Date:20-07-26**
+<br>
+|Topics Covered|Description|
+|---|---|
+|`Linear Regression`|supervised learning algorithm used to predict a continuous numerical value by finding the best-fit straight line between the input features and the target variable.|
+|`Ridge Regression`|regularized version of Linear Regression that adds an L2 penalty to the cost function. This penalty shrinks coefficient values but does not remove any features.|
+|`Lasso Regression`|regularized version of Linear Regression that adds an L1 penalty to the cost function. It shrinks coefficients and can reduce some of them exactly to zero, automatically performing feature selection.|
+
+---
+**DAY: 16  Date:21-07-26**
+<br>
+|Topics Covered|Description|
+|---|---|
+|`Feature Selection `|process of selecting only the most important features (columns) from a dataset while removing irrelevant, redundant, or less useful features before training a machine learning model.|
+|`Variance Thresholding`|Variance Threshold removes features with very low variance, as they contribute little useful information to the learning process. Features with almost constant values are typically discarded.|
+|`Correlation Coefficient`|The Correlation Coefficient measures the strength and direction of the relationship between a feature and the target variable. Features with higher absolute correlation values are generally considered more relevant.|
+|`Chi Squared Test`|Chi-Square test evaluates the dependency between categorical features and the target variable. Features with higher Chi-Square scores are considered more important.|
+
+---
+**DAY: 17  Date:22-07-26**
+<br>
+|Topics Covered|Description|
+|---|---|
+|`Wrapper Method`|feature selection technique in which a machine learning algorithm is used to evaluate different subsets of features and select the combination that gives the best model performance.|
+|`RFECV (Recursive Feature Elimination with Cross Validation)`|This is the smart version of RFE. Instead of asking How many features should I keep? RFECV automatically decides.|
 
 
 
